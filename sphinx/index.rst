@@ -4,12 +4,15 @@
    contain the root `toctree` directive.
 
 Welcome to Sphinx documentation's website example!
-=============================================================
+================================================================
+
+This is a description of this website. This is just an example website for a tutorial.
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+   summary
    code
 
 
